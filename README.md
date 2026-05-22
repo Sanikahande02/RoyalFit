@@ -1,13 +1,15 @@
 🏋️RoyalFit
-* A simple Gym Management System built using PHP & MySQL.
-* Features include:
+A simple Gym Management System built using PHP & MySQL.
+Features include:
 
 * User Registration
 * Login System
 * BMI (Body Mass Index) Calculator
 * Member Dashboard (basic)
-* Admin-ready structure 
+* Admin-ready structure
+  
 ---
+
 # 🚀 Features
 
 ## 👤 User Module
@@ -46,5 +48,5 @@
 ---
 
 # 🖥️ Basic Setup Instructions (Using XAMPP):
-* 1. Download or Clone the Repository
+* Download or Clone the Repository
 * git clone https://github.com/your-username/php-gym-management.git
