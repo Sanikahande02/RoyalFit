@@ -1,4 +1,5 @@
 🏋️RoyalFit
+---
 A simple Gym Management System built using PHP & MySQL.
 Features include:
 
